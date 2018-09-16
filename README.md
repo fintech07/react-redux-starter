@@ -5,10 +5,10 @@ This Project was bootstrapped with create-react-app
 
 download or git clone the project files. 
 
-##Install the dependencies: 
+## Install the dependencies: 
 
 `npm install` 
 
-##Run the app:
+## Run the app:
 
 `npm start`
