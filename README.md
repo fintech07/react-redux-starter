@@ -5,8 +5,9 @@ This Project was bootstrapped with create-react-app
 
 download or git clone the project files. 
 
-## Install the dependencies: 
+## CD into the Project Directory Install the dependencies: 
 
+`cd react-redux-starter-master`
 `npm install` 
 
 ## Run the app:
